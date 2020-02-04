@@ -25,8 +25,8 @@ Project is finished
 
 Here's a brief intro about what a developer must do in order to start developing the project further:
 
-git clone https://github.com/your/your-project.git
-cd your-project/
+git clone https://github.com/utopia90/chinguproyect.git
+cd chinguproyect/
 packagemanager install
 
 *Licensing*
