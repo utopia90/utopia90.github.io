@@ -7,9 +7,9 @@ My Project is a clone of the basic functionality of Momentum App website ("https
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+    npm install utopia90/chinguproyect/
+    npm start
+
 ```
 
 *Developing*
